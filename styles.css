@@ -7,3 +7,11 @@
 #container:before,#container:after{
 	color:#f00;
 }
+
+#container:before{
+	content:"Before Element";
+}
+
+#container:after{
+	content:"After Element";
+}
